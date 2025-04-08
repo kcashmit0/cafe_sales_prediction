@@ -1,0 +1,1754 @@
+DateTime,Item,Category,Quantity_Sold,Price,Total_Sales,School_Holiday,Time_of_Day
+3/1/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+3/1/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Evening
+3/1/2024 10:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,TRUE,Morning
+3/1/2024 17:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Evening
+3/1/2024 13:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Afternoon
+3/1/2024 10:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Morning
+3/1/2024 17:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Evening
+3/1/2024 10:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+3/1/2024 13:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Afternoon
+3/1/2024 10:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Morning
+3/1/2024 13:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Afternoon
+3/2/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,4,6.9,27.6,TRUE,Afternoon
+3/2/2024 10:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,FALSE,Morning
+3/2/2024 17:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+3/2/2024 17:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Evening
+3/2/2024 10:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Morning
+3/2/2024 10:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Morning
+3/2/2024 10:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Morning
+3/2/2024 17:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,TRUE,Evening
+3/2/2024 17:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Evening
+3/2/2024 10:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Morning
+3/2/2024 17:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,TRUE,Evening
+3/3/2024 10:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Morning
+3/3/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Evening
+3/3/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Morning
+3/3/2024 17:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Evening
+3/3/2024 13:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+3/3/2024 17:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,TRUE,Evening
+3/3/2024 13:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,TRUE,Afternoon
+3/3/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Morning
+3/3/2024 17:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,TRUE,Evening
+3/3/2024 10:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Morning
+3/3/2024 17:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Evening
+3/3/2024 10:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Morning
+3/3/2024 10:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,TRUE,Morning
+3/4/2024 13:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,FALSE,Afternoon
+3/4/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+3/4/2024 10:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,TRUE,Morning
+3/4/2024 17:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+3/4/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,FALSE,Afternoon
+3/4/2024 10:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Morning
+3/4/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,4,12.9,51.6,FALSE,Afternoon
+3/4/2024 13:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Afternoon
+3/4/2024 17:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,TRUE,Evening
+3/5/2024 13:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+3/5/2024 10:00,Wedges (S),Family Favourites,5,7.9,39.5,FALSE,Morning
+3/5/2024 13:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Afternoon
+3/5/2024 13:00,Veggie Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+3/5/2024 17:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Evening
+3/5/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,FALSE,Morning
+3/5/2024 10:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Morning
+3/5/2024 13:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+3/5/2024 10:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,FALSE,Morning
+3/5/2024 13:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+3/5/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,FALSE,Evening
+3/5/2024 13:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+3/5/2024 10:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Morning
+3/6/2024 13:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+3/6/2024 13:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+3/6/2024 13:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Afternoon
+3/6/2024 17:00,Sourdough Toast,Craft Breakfast,3,5.9,17.7,FALSE,Evening
+3/6/2024 10:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+3/7/2024 13:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Afternoon
+3/7/2024 10:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Morning
+3/7/2024 10:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+3/7/2024 13:00,Angus Beef Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+3/7/2024 17:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+3/7/2024 10:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Morning
+3/8/2024 10:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,FALSE,Morning
+3/8/2024 10:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Morning
+3/8/2024 13:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,TRUE,Afternoon
+3/8/2024 17:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,FALSE,Evening
+3/8/2024 13:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,FALSE,Afternoon
+3/8/2024 10:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Morning
+3/8/2024 13:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+3/8/2024 17:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,FALSE,Evening
+3/8/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,TRUE,Afternoon
+3/8/2024 10:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Morning
+3/8/2024 10:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Morning
+3/9/2024 17:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,FALSE,Evening
+3/9/2024 10:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Morning
+3/9/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,5,6.9,34.5,FALSE,Evening
+3/9/2024 10:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Morning
+3/9/2024 13:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+3/9/2024 17:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Evening
+3/9/2024 10:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,TRUE,Morning
+3/9/2024 13:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,FALSE,Afternoon
+3/9/2024 13:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+3/9/2024 17:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Evening
+3/10/2024 17:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,TRUE,Evening
+3/10/2024 10:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Morning
+3/10/2024 13:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Afternoon
+3/10/2024 10:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,FALSE,Morning
+3/10/2024 17:00,Sweet Potato Chips (S),Family Favourites,1,7.9,7.9,FALSE,Evening
+3/11/2024 10:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Morning
+3/11/2024 17:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+3/11/2024 17:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,FALSE,Evening
+3/11/2024 13:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Afternoon
+3/11/2024 13:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+3/11/2024 13:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+3/11/2024 13:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+3/11/2024 17:00,Wedges (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+3/11/2024 13:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+3/11/2024 10:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Morning
+3/11/2024 13:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,FALSE,Afternoon
+3/11/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Afternoon
+3/12/2024 17:00,Ice Chocolate (Regular),Cold Drinks,3,8.9,26.7,FALSE,Evening
+3/12/2024 13:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Afternoon
+3/12/2024 17:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Evening
+3/12/2024 13:00,Iced Coffee (Large),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+3/12/2024 10:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+3/12/2024 17:00,Hot Chips (S),Family Favourites,3,5.9,17.7,TRUE,Evening
+3/12/2024 10:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Morning
+3/12/2024 10:00,Salt & Pepper Squid,Craft Lunch,3,13.9,41.7,TRUE,Morning
+3/12/2024 10:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+3/12/2024 13:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,FALSE,Afternoon
+3/12/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,TRUE,Evening
+3/13/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,3,12.9,38.7,FALSE,Evening
+3/13/2024 17:00,Wedges (S),Family Favourites,3,7.9,23.7,TRUE,Evening
+3/13/2024 17:00,Fish & Chips,Craft Lunch,5,16.9,84.5,TRUE,Evening
+3/13/2024 10:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Morning
+3/13/2024 17:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Evening
+3/13/2024 10:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Morning
+3/13/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Morning
+3/13/2024 13:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,TRUE,Afternoon
+3/13/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+3/14/2024 13:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,FALSE,Afternoon
+3/14/2024 17:00,Sweet Potato Chips (L),Family Favourites,4,9.9,39.6,FALSE,Evening
+3/14/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,TRUE,Afternoon
+3/14/2024 13:00,Hot Chips (L),Family Favourites,3,7.9,23.7,TRUE,Afternoon
+3/14/2024 17:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Evening
+3/14/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Morning
+3/14/2024 10:00,Barista Made Coffee (L),Hot Drinks,1,6.9,6.9,FALSE,Morning
+3/14/2024 13:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Afternoon
+3/14/2024 17:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+3/15/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,TRUE,Afternoon
+3/15/2024 10:00,Tea,Hot Drinks,4,4.9,19.6,FALSE,Morning
+3/15/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Afternoon
+3/15/2024 10:00,Milkshake (Regular),Cold Drinks,4,7.9,31.6,TRUE,Morning
+3/15/2024 13:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+3/15/2024 17:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+3/15/2024 17:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,TRUE,Evening
+3/15/2024 13:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,FALSE,Afternoon
+3/15/2024 17:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,FALSE,Evening
+3/16/2024 13:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+3/16/2024 10:00,Iced Coffee (Large),Cold Drinks,4,8.9,35.6,TRUE,Morning
+3/16/2024 13:00,Raisin Toast,Craft Breakfast,1,5.9,5.9,FALSE,Afternoon
+3/16/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Afternoon
+3/16/2024 13:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+3/16/2024 17:00,House Made Wrap,Craft Lunch,4,9.9,39.6,FALSE,Evening
+3/16/2024 13:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+3/16/2024 17:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Evening
+3/16/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,TRUE,Afternoon
+3/16/2024 13:00,Sweet Potato Chips (S),Family Favourites,5,7.9,39.5,FALSE,Afternoon
+3/16/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,2,6.9,13.8,FALSE,Morning
+3/16/2024 10:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Morning
+3/17/2024 17:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+3/17/2024 17:00,Milkshake (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+3/17/2024 13:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+3/17/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Morning
+3/17/2024 17:00,Iced Coffee (Large),Cold Drinks,2,8.9,17.8,TRUE,Evening
+3/17/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,FALSE,Evening
+3/17/2024 10:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Morning
+3/17/2024 10:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Morning
+3/17/2024 13:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+3/17/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Morning
+3/17/2024 10:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+3/17/2024 17:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Evening
+3/17/2024 13:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Afternoon
+3/18/2024 13:00,Fish & Chips,Craft Lunch,2,16.9,33.8,TRUE,Afternoon
+3/18/2024 17:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+3/18/2024 17:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+3/18/2024 13:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+3/18/2024 17:00,Raisin Toast,Craft Breakfast,1,5.9,5.9,FALSE,Evening
+3/18/2024 17:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Evening
+3/18/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Afternoon
+3/18/2024 10:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Morning
+3/18/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Afternoon
+3/18/2024 13:00,Banana Bread,Craft Breakfast,5,6.5,32.5,FALSE,Afternoon
+3/18/2024 17:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+3/18/2024 13:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Afternoon
+3/18/2024 17:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Evening
+3/18/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,TRUE,Morning
+3/19/2024 13:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,TRUE,Afternoon
+3/19/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,3,12.9,38.7,FALSE,Evening
+3/19/2024 13:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Afternoon
+3/19/2024 13:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+3/19/2024 10:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,TRUE,Morning
+3/19/2024 10:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,TRUE,Morning
+3/19/2024 13:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,FALSE,Afternoon
+3/20/2024 13:00,Fish & Chips,Craft Lunch,2,16.9,33.8,FALSE,Afternoon
+3/20/2024 17:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,TRUE,Evening
+3/20/2024 10:00,Raisin Toast,Craft Breakfast,3,5.9,17.7,FALSE,Morning
+3/20/2024 17:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,TRUE,Evening
+3/20/2024 13:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,FALSE,Afternoon
+3/21/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Morning
+3/21/2024 13:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Afternoon
+3/21/2024 17:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+3/21/2024 17:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Evening
+3/21/2024 17:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Evening
+3/21/2024 17:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Evening
+3/21/2024 10:00,Barista Made Coffee (L),Hot Drinks,1,6.9,6.9,FALSE,Morning
+3/21/2024 13:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,TRUE,Afternoon
+3/22/2024 17:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+3/22/2024 13:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Afternoon
+3/22/2024 10:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Morning
+3/22/2024 13:00,Hot Chips (L),Family Favourites,4,7.9,31.6,TRUE,Afternoon
+3/22/2024 13:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Afternoon
+3/23/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Evening
+3/23/2024 17:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Evening
+3/23/2024 13:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+3/23/2024 13:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,TRUE,Afternoon
+3/23/2024 10:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Morning
+3/24/2024 17:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Evening
+3/24/2024 17:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Evening
+3/24/2024 10:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+3/24/2024 10:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Morning
+3/24/2024 10:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,FALSE,Morning
+3/24/2024 10:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,FALSE,Morning
+3/24/2024 10:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+3/24/2024 17:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,FALSE,Evening
+3/24/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+3/24/2024 10:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Morning
+3/24/2024 17:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Evening
+3/25/2024 13:00,Fish & Chips,Craft Lunch,3,16.9,50.7,FALSE,Afternoon
+3/25/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Morning
+3/25/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Evening
+3/25/2024 10:00,Hot Chips (L),Family Favourites,3,7.9,23.7,FALSE,Morning
+3/25/2024 10:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Morning
+3/25/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+3/25/2024 13:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+3/25/2024 10:00,House Made Roll,Craft Lunch,1,15.9,15.9,TRUE,Morning
+3/25/2024 17:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Evening
+3/25/2024 10:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Morning
+3/25/2024 17:00,Banana Bread,Craft Breakfast,1,6.5,6.5,TRUE,Evening
+3/26/2024 17:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Evening
+3/26/2024 17:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,FALSE,Evening
+3/26/2024 13:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,TRUE,Afternoon
+3/26/2024 17:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Evening
+3/26/2024 13:00,Tea,Hot Drinks,5,4.9,24.5,TRUE,Afternoon
+3/26/2024 10:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+3/26/2024 13:00,Hot Chips (L),Family Favourites,4,7.9,31.6,TRUE,Afternoon
+3/26/2024 10:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,FALSE,Morning
+3/26/2024 13:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Afternoon
+3/26/2024 10:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+3/26/2024 13:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,TRUE,Afternoon
+3/26/2024 10:00,Wedges (S),Family Favourites,3,7.9,23.7,FALSE,Morning
+3/27/2024 10:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Morning
+3/27/2024 17:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Evening
+3/27/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,TRUE,Evening
+3/27/2024 17:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,TRUE,Evening
+3/27/2024 10:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+3/27/2024 10:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,TRUE,Morning
+3/27/2024 17:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Evening
+3/27/2024 13:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+3/27/2024 13:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+3/27/2024 10:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Morning
+3/27/2024 13:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Afternoon
+3/27/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+3/27/2024 17:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Evening
+3/28/2024 13:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,TRUE,Afternoon
+3/28/2024 17:00,Wedges (S),Family Favourites,3,7.9,23.7,FALSE,Evening
+3/28/2024 17:00,House Made Wrap,Craft Lunch,4,9.9,39.6,FALSE,Evening
+3/28/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,TRUE,Afternoon
+3/28/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Afternoon
+3/28/2024 10:00,Fish & Chips,Craft Lunch,4,16.9,67.6,TRUE,Morning
+3/28/2024 13:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,FALSE,Afternoon
+3/28/2024 10:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+3/28/2024 17:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Evening
+3/29/2024 13:00,Banana Bread,Craft Breakfast,5,6.5,32.5,FALSE,Afternoon
+3/29/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,3,12.9,38.7,FALSE,Afternoon
+3/29/2024 10:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+3/29/2024 17:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Evening
+3/29/2024 17:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,TRUE,Evening
+3/29/2024 13:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+3/29/2024 13:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Afternoon
+3/30/2024 13:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Afternoon
+3/30/2024 17:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+3/30/2024 17:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+3/30/2024 10:00,Milkshake (Regular),Cold Drinks,2,7.9,15.8,FALSE,Morning
+3/30/2024 17:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Evening
+3/30/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,TRUE,Morning
+3/30/2024 10:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,TRUE,Morning
+3/30/2024 13:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,TRUE,Afternoon
+3/30/2024 10:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Morning
+3/31/2024 13:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+3/31/2024 10:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Morning
+3/31/2024 13:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,FALSE,Afternoon
+3/31/2024 17:00,Wedges (S),Family Favourites,5,7.9,39.5,FALSE,Evening
+3/31/2024 13:00,Iced Coffee (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+3/31/2024 10:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Morning
+3/31/2024 10:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Morning
+3/31/2024 17:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Evening
+3/31/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,TRUE,Afternoon
+3/31/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Afternoon
+4/1/2024 10:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Morning
+4/1/2024 13:00,Milkshake (Regular),Cold Drinks,5,7.9,39.5,TRUE,Afternoon
+4/1/2024 10:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+4/1/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,4,12.9,51.6,FALSE,Evening
+4/1/2024 13:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+4/2/2024 10:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Morning
+4/2/2024 17:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Evening
+4/2/2024 13:00,Tea,Hot Drinks,1,4.9,4.9,FALSE,Afternoon
+4/2/2024 13:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+4/2/2024 13:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+4/2/2024 10:00,Sourdough Toast,Craft Breakfast,3,5.9,17.7,FALSE,Morning
+4/2/2024 17:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,TRUE,Evening
+4/2/2024 10:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Morning
+4/2/2024 17:00,Wedges (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+4/2/2024 17:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,TRUE,Evening
+4/2/2024 17:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,TRUE,Evening
+4/2/2024 17:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,TRUE,Evening
+4/3/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,FALSE,Morning
+4/3/2024 13:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+4/3/2024 17:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Evening
+4/3/2024 17:00,Tea,Hot Drinks,2,4.9,9.8,TRUE,Evening
+4/3/2024 10:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,FALSE,Morning
+4/3/2024 13:00,Barista Made Coffee (L),Hot Drinks,4,6.9,27.6,FALSE,Afternoon
+4/3/2024 17:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Evening
+4/3/2024 13:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,FALSE,Afternoon
+4/3/2024 10:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Morning
+4/3/2024 10:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Morning
+4/4/2024 13:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,FALSE,Afternoon
+4/4/2024 13:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Afternoon
+4/4/2024 17:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+4/4/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Afternoon
+4/4/2024 17:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,FALSE,Evening
+4/4/2024 17:00,Tea,Hot Drinks,1,4.9,4.9,FALSE,Evening
+4/4/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,TRUE,Morning
+4/4/2024 17:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Evening
+4/4/2024 13:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Afternoon
+4/4/2024 10:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Morning
+4/5/2024 13:00,Wedges (S),Family Favourites,3,7.9,23.7,FALSE,Afternoon
+4/5/2024 13:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+4/5/2024 10:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+4/5/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Evening
+4/5/2024 13:00,Iced Coffee (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+4/5/2024 17:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+4/5/2024 10:00,Banana Bread,Craft Breakfast,5,6.5,32.5,FALSE,Morning
+4/5/2024 17:00,Iced Coffee (Regular),Cold Drinks,1,7.9,7.9,TRUE,Evening
+4/6/2024 17:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Evening
+4/6/2024 13:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+4/6/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,TRUE,Afternoon
+4/6/2024 17:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,FALSE,Evening
+4/6/2024 10:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Morning
+4/6/2024 17:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+4/6/2024 10:00,Fish & Chips,Craft Lunch,2,16.9,33.8,FALSE,Morning
+4/6/2024 13:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Afternoon
+4/6/2024 10:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Morning
+4/6/2024 17:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+4/6/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Afternoon
+4/7/2024 17:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+4/7/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Afternoon
+4/7/2024 13:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+4/7/2024 17:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Evening
+4/7/2024 13:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,FALSE,Afternoon
+4/7/2024 10:00,Banana Bread,Craft Breakfast,3,6.5,19.5,TRUE,Morning
+4/8/2024 10:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Morning
+4/8/2024 13:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Afternoon
+4/8/2024 17:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Evening
+4/8/2024 17:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Evening
+4/8/2024 17:00,Sourdough Toast,Craft Breakfast,3,5.9,17.7,FALSE,Evening
+4/8/2024 17:00,Tea,Hot Drinks,4,4.9,19.6,TRUE,Evening
+4/9/2024 10:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Morning
+4/9/2024 17:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Evening
+4/9/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Morning
+4/9/2024 10:00,Ice Chocolate (Regular),Cold Drinks,3,8.9,26.7,FALSE,Morning
+4/9/2024 17:00,Banana Bread,Craft Breakfast,1,6.5,6.5,FALSE,Evening
+4/10/2024 13:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+4/10/2024 13:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Afternoon
+4/10/2024 17:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Evening
+4/10/2024 13:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Afternoon
+4/10/2024 17:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Evening
+4/10/2024 17:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+4/10/2024 17:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Evening
+4/10/2024 13:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,TRUE,Afternoon
+4/10/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,TRUE,Afternoon
+4/10/2024 13:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Afternoon
+4/10/2024 10:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Morning
+4/10/2024 10:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Morning
+4/11/2024 10:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Morning
+4/11/2024 13:00,House Made Roll,Craft Lunch,3,15.9,47.7,TRUE,Afternoon
+4/11/2024 13:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+4/11/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Morning
+4/11/2024 10:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Morning
+4/11/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Morning
+4/11/2024 17:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+4/11/2024 10:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Morning
+4/11/2024 13:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+4/11/2024 17:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,FALSE,Evening
+4/12/2024 10:00,Angus Beef Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+4/12/2024 10:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+4/12/2024 10:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Morning
+4/12/2024 17:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,FALSE,Evening
+4/12/2024 13:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+4/12/2024 13:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+4/12/2024 13:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Afternoon
+4/12/2024 17:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,TRUE,Evening
+4/12/2024 13:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+4/12/2024 10:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Morning
+4/12/2024 10:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+4/12/2024 17:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,TRUE,Evening
+4/13/2024 17:00,Fish & Chips,Craft Lunch,3,16.9,50.7,FALSE,Evening
+4/13/2024 10:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,FALSE,Morning
+4/13/2024 10:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Morning
+4/13/2024 10:00,Tea,Hot Drinks,2,4.9,9.8,FALSE,Morning
+4/13/2024 17:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+4/13/2024 13:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Afternoon
+4/13/2024 10:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Morning
+4/13/2024 17:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Evening
+4/13/2024 13:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+4/14/2024 13:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+4/14/2024 17:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,TRUE,Evening
+4/14/2024 13:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+4/14/2024 13:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Afternoon
+4/14/2024 13:00,Banana Bread,Craft Breakfast,1,6.5,6.5,FALSE,Afternoon
+4/14/2024 10:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Morning
+4/14/2024 10:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+4/14/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Afternoon
+4/14/2024 13:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,TRUE,Afternoon
+4/14/2024 10:00,Fish & Chips,Craft Lunch,3,16.9,50.7,FALSE,Morning
+4/14/2024 17:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,TRUE,Evening
+4/14/2024 10:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Morning
+4/14/2024 17:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Evening
+4/14/2024 17:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Evening
+4/15/2024 13:00,House Made Wrap,Craft Lunch,4,9.9,39.6,FALSE,Afternoon
+4/15/2024 10:00,Raisin Toast,Craft Breakfast,1,5.9,5.9,FALSE,Morning
+4/15/2024 10:00,Sweet Potato Chips (L),Family Favourites,4,9.9,39.6,TRUE,Morning
+4/15/2024 10:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Morning
+4/15/2024 17:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,TRUE,Evening
+4/15/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Morning
+4/15/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Evening
+4/15/2024 13:00,Tea,Hot Drinks,4,4.9,19.6,FALSE,Afternoon
+4/15/2024 17:00,Hot Chips (S),Family Favourites,2,5.9,11.8,TRUE,Evening
+4/15/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,TRUE,Morning
+4/15/2024 13:00,Iced Coffee (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+4/15/2024 10:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Morning
+4/15/2024 13:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+4/16/2024 17:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+4/16/2024 10:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Morning
+4/16/2024 17:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Evening
+4/16/2024 17:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Evening
+4/16/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,TRUE,Evening
+4/16/2024 10:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Morning
+4/16/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,TRUE,Morning
+4/16/2024 10:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Morning
+4/17/2024 17:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,TRUE,Evening
+4/17/2024 13:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,TRUE,Afternoon
+4/17/2024 17:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Evening
+4/17/2024 10:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Morning
+4/17/2024 17:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Evening
+4/17/2024 17:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Evening
+4/17/2024 17:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Evening
+4/17/2024 13:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Afternoon
+4/17/2024 10:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Morning
+4/17/2024 10:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+4/17/2024 13:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Afternoon
+4/17/2024 13:00,Fish & Chips,Craft Lunch,1,16.9,16.9,TRUE,Afternoon
+4/17/2024 13:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+4/18/2024 10:00,Tea,Hot Drinks,5,4.9,24.5,TRUE,Morning
+4/18/2024 13:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,TRUE,Afternoon
+4/18/2024 10:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,FALSE,Morning
+4/18/2024 17:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Evening
+4/18/2024 13:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Afternoon
+4/18/2024 10:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Morning
+4/18/2024 17:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Evening
+4/18/2024 10:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Morning
+4/18/2024 13:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Afternoon
+4/19/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Afternoon
+4/19/2024 10:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+4/19/2024 17:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+4/19/2024 10:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,TRUE,Morning
+4/19/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,TRUE,Evening
+4/19/2024 13:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,TRUE,Afternoon
+4/19/2024 13:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Afternoon
+4/19/2024 17:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Evening
+4/19/2024 17:00,Fish & Chips,Craft Lunch,3,16.9,50.7,FALSE,Evening
+4/19/2024 10:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Morning
+4/19/2024 10:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Morning
+4/19/2024 13:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,TRUE,Afternoon
+4/19/2024 10:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Morning
+4/20/2024 10:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Morning
+4/20/2024 10:00,Hot Chips (S),Family Favourites,5,5.9,29.5,TRUE,Morning
+4/20/2024 13:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+4/20/2024 17:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Evening
+4/20/2024 13:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Afternoon
+4/20/2024 17:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,FALSE,Evening
+4/21/2024 10:00,House Made Roll,Craft Lunch,3,15.9,47.7,TRUE,Morning
+4/21/2024 17:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Evening
+4/21/2024 17:00,Wedges (S),Family Favourites,5,7.9,39.5,FALSE,Evening
+4/21/2024 17:00,Sweet Potato Chips (S),Family Favourites,1,7.9,7.9,FALSE,Evening
+4/21/2024 17:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+4/21/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+4/21/2024 13:00,Veggie Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+4/21/2024 17:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Evening
+4/22/2024 17:00,House Made Roll,Craft Lunch,3,15.9,47.7,FALSE,Evening
+4/22/2024 17:00,Barista Made Coffee (L),Hot Drinks,3,6.9,20.7,FALSE,Evening
+4/22/2024 13:00,Sourdough Toast,Craft Breakfast,5,5.9,29.5,TRUE,Afternoon
+4/22/2024 10:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Morning
+4/22/2024 10:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Morning
+4/22/2024 17:00,House Made Roll,Craft Lunch,2,15.9,31.8,FALSE,Evening
+4/22/2024 17:00,Wedges (S),Family Favourites,4,7.9,31.6,TRUE,Evening
+4/22/2024 17:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+4/22/2024 13:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Afternoon
+4/22/2024 13:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Afternoon
+4/22/2024 10:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,FALSE,Morning
+4/22/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Afternoon
+4/23/2024 13:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,TRUE,Afternoon
+4/23/2024 13:00,Veggie Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+4/23/2024 10:00,Fish & Chips,Craft Lunch,2,16.9,33.8,FALSE,Morning
+4/23/2024 17:00,Chicken Burger,Gourmet Burgers,2,12.9,25.8,TRUE,Evening
+4/23/2024 10:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Morning
+4/23/2024 10:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Morning
+4/23/2024 13:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Afternoon
+4/23/2024 13:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Afternoon
+4/23/2024 13:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Afternoon
+4/24/2024 10:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,FALSE,Morning
+4/24/2024 17:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+4/24/2024 10:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,TRUE,Morning
+4/24/2024 17:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Evening
+4/24/2024 13:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+4/24/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,4,6.9,27.6,FALSE,Morning
+4/24/2024 10:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Morning
+4/24/2024 13:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+4/24/2024 13:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Afternoon
+4/24/2024 10:00,Iced Coffee (Large),Cold Drinks,2,8.9,17.8,FALSE,Morning
+4/24/2024 10:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,TRUE,Morning
+4/25/2024 10:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Morning
+4/25/2024 13:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,FALSE,Afternoon
+4/25/2024 17:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Evening
+4/25/2024 13:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Afternoon
+4/25/2024 17:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,TRUE,Evening
+4/25/2024 17:00,Hot Chips (L),Family Favourites,5,7.9,39.5,TRUE,Evening
+4/25/2024 10:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,FALSE,Morning
+4/25/2024 13:00,House Made Roll,Craft Lunch,2,15.9,31.8,TRUE,Afternoon
+4/25/2024 17:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+4/25/2024 10:00,Barista Made Coffee (M),Hot Drinks,4,5.9,23.6,TRUE,Morning
+4/25/2024 17:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,TRUE,Evening
+4/25/2024 13:00,Veggie Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+4/25/2024 10:00,House Made Roll,Craft Lunch,1,15.9,15.9,FALSE,Morning
+4/25/2024 13:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,FALSE,Afternoon
+4/26/2024 17:00,Wedges (L),Family Favourites,3,9.9,29.7,TRUE,Evening
+4/26/2024 13:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,FALSE,Afternoon
+4/26/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Afternoon
+4/26/2024 10:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Morning
+4/26/2024 13:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,TRUE,Afternoon
+4/26/2024 17:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+4/26/2024 17:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Evening
+4/26/2024 17:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,FALSE,Evening
+4/26/2024 17:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Evening
+4/26/2024 10:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+4/26/2024 17:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,TRUE,Evening
+4/27/2024 10:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Morning
+4/27/2024 13:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+4/27/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,FALSE,Morning
+4/27/2024 13:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+4/27/2024 17:00,Iced Coffee (Large),Cold Drinks,3,8.9,26.7,FALSE,Evening
+4/27/2024 17:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Evening
+4/27/2024 17:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+4/27/2024 13:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+4/27/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,TRUE,Evening
+4/27/2024 17:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+4/28/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Evening
+4/28/2024 13:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+4/28/2024 13:00,Raisin Toast,Craft Breakfast,1,5.9,5.9,FALSE,Afternoon
+4/28/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Evening
+4/28/2024 13:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,TRUE,Afternoon
+4/28/2024 10:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,TRUE,Morning
+4/28/2024 10:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+4/28/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Afternoon
+4/28/2024 10:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,TRUE,Morning
+4/28/2024 10:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Morning
+4/28/2024 17:00,Barista Made Coffee (L),Hot Drinks,3,6.9,20.7,FALSE,Evening
+4/29/2024 13:00,Sourdough Toast,Craft Breakfast,3,5.9,17.7,FALSE,Afternoon
+4/29/2024 13:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+4/29/2024 17:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Evening
+4/29/2024 10:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Morning
+4/29/2024 17:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,TRUE,Evening
+4/29/2024 13:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,TRUE,Afternoon
+4/29/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Evening
+4/29/2024 13:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+4/30/2024 10:00,Sweet Potato Chips (S),Family Favourites,1,7.9,7.9,FALSE,Morning
+4/30/2024 10:00,Wedges (L),Family Favourites,1,9.9,9.9,FALSE,Morning
+4/30/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,FALSE,Evening
+4/30/2024 10:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Morning
+4/30/2024 13:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+4/30/2024 10:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Morning
+4/30/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,1,7.9,7.9,FALSE,Evening
+5/1/2024 13:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+5/1/2024 13:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,FALSE,Afternoon
+5/1/2024 10:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Morning
+5/1/2024 17:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+5/1/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,FALSE,Evening
+5/2/2024 17:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Evening
+5/2/2024 13:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+5/2/2024 17:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Evening
+5/2/2024 10:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+5/2/2024 13:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+5/2/2024 13:00,Sourdough Toast,Craft Breakfast,3,5.9,17.7,FALSE,Afternoon
+5/3/2024 17:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Evening
+5/3/2024 17:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Evening
+5/3/2024 10:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,FALSE,Morning
+5/3/2024 13:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+5/3/2024 13:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Afternoon
+5/3/2024 17:00,House Made Roll,Craft Lunch,2,15.9,31.8,FALSE,Evening
+5/3/2024 17:00,Wedges (S),Family Favourites,1,7.9,7.9,TRUE,Evening
+5/3/2024 13:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,TRUE,Afternoon
+5/3/2024 17:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,FALSE,Evening
+5/3/2024 13:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+5/3/2024 10:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+5/3/2024 13:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,TRUE,Afternoon
+5/3/2024 10:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+5/3/2024 17:00,Fish & Chips,Craft Lunch,2,16.9,33.8,FALSE,Evening
+5/4/2024 13:00,Chicken Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+5/4/2024 10:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,FALSE,Morning
+5/4/2024 10:00,House Made Roll,Craft Lunch,1,15.9,15.9,TRUE,Morning
+5/4/2024 17:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+5/4/2024 13:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+5/4/2024 10:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Morning
+5/4/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,TRUE,Evening
+5/4/2024 17:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Evening
+5/5/2024 13:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+5/5/2024 13:00,House Made Roll,Craft Lunch,4,15.9,63.6,FALSE,Afternoon
+5/5/2024 10:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Morning
+5/5/2024 13:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Afternoon
+5/5/2024 10:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+5/5/2024 17:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Evening
+5/5/2024 10:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Morning
+5/5/2024 13:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Afternoon
+5/5/2024 17:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Evening
+5/6/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,4,6.9,27.6,TRUE,Morning
+5/6/2024 10:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Morning
+5/6/2024 17:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,TRUE,Evening
+5/6/2024 10:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+5/6/2024 10:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Morning
+5/6/2024 13:00,Iced Coffee (Large),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+5/6/2024 10:00,Ice Chocolate (Regular),Cold Drinks,3,8.9,26.7,FALSE,Morning
+5/6/2024 17:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Evening
+5/6/2024 10:00,House Made Wrap,Craft Lunch,2,9.9,19.8,TRUE,Morning
+5/6/2024 10:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Morning
+5/6/2024 13:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Afternoon
+5/6/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,TRUE,Afternoon
+5/6/2024 17:00,Fish & Chips,Craft Lunch,2,16.9,33.8,TRUE,Evening
+5/7/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,4,12.9,51.6,FALSE,Afternoon
+5/7/2024 10:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Morning
+5/7/2024 13:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,FALSE,Afternoon
+5/7/2024 17:00,Salt & Pepper Squid,Craft Lunch,3,13.9,41.7,TRUE,Evening
+5/7/2024 17:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Evening
+5/7/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Afternoon
+5/7/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Morning
+5/7/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Afternoon
+5/8/2024 13:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+5/8/2024 10:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Morning
+5/8/2024 13:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+5/8/2024 17:00,Wedges (L),Family Favourites,2,9.9,19.8,TRUE,Evening
+5/8/2024 17:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Evening
+5/8/2024 13:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,TRUE,Afternoon
+5/8/2024 10:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Morning
+5/8/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,FALSE,Evening
+5/8/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,FALSE,Morning
+5/8/2024 10:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Morning
+5/8/2024 13:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Afternoon
+5/8/2024 10:00,Ice Chocolate (Regular),Cold Drinks,3,8.9,26.7,TRUE,Morning
+5/8/2024 17:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Evening
+5/8/2024 10:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Morning
+5/9/2024 13:00,House Made Roll,Craft Lunch,3,15.9,47.7,FALSE,Afternoon
+5/9/2024 10:00,Iced Coffee (Large),Cold Drinks,3,8.9,26.7,FALSE,Morning
+5/9/2024 10:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Morning
+5/9/2024 17:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Evening
+5/9/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Afternoon
+5/9/2024 17:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,FALSE,Evening
+5/9/2024 10:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+5/9/2024 10:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,TRUE,Morning
+5/9/2024 10:00,Hot Chips (S),Family Favourites,5,5.9,29.5,TRUE,Morning
+5/9/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,2,6.9,13.8,FALSE,Morning
+5/9/2024 13:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,FALSE,Afternoon
+5/10/2024 13:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Afternoon
+5/10/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Morning
+5/10/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Evening
+5/10/2024 10:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,FALSE,Morning
+5/10/2024 17:00,House Made Roll,Craft Lunch,3,15.9,47.7,FALSE,Evening
+5/10/2024 17:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+5/10/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+5/10/2024 17:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+5/11/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,2,6.9,13.8,FALSE,Morning
+5/11/2024 10:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Morning
+5/11/2024 13:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Afternoon
+5/11/2024 13:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+5/11/2024 13:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+5/11/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,3,12.9,38.7,FALSE,Morning
+5/12/2024 17:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+5/12/2024 10:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,TRUE,Morning
+5/12/2024 10:00,Hot Chips (S),Family Favourites,2,5.9,11.8,TRUE,Morning
+5/12/2024 10:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Morning
+5/12/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Afternoon
+5/13/2024 13:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Afternoon
+5/13/2024 13:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Afternoon
+5/13/2024 17:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+5/13/2024 10:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Morning
+5/13/2024 10:00,House Made Roll,Craft Lunch,4,15.9,63.6,FALSE,Morning
+5/13/2024 10:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Morning
+5/13/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+5/13/2024 17:00,Raisin Toast,Craft Breakfast,3,5.9,17.7,FALSE,Evening
+5/13/2024 10:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+5/13/2024 10:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+5/13/2024 17:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Evening
+5/14/2024 10:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+5/14/2024 13:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+5/14/2024 13:00,House Made Roll,Craft Lunch,2,15.9,31.8,FALSE,Afternoon
+5/14/2024 10:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+5/14/2024 10:00,Milkshake (Regular),Cold Drinks,4,7.9,31.6,TRUE,Morning
+5/14/2024 17:00,Iced Coffee (Regular),Cold Drinks,1,7.9,7.9,FALSE,Evening
+5/14/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+5/14/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Afternoon
+5/14/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+5/14/2024 13:00,Fish & Chips,Craft Lunch,1,16.9,16.9,FALSE,Afternoon
+5/15/2024 13:00,Barista Made Coffee (M),Hot Drinks,4,5.9,23.6,FALSE,Afternoon
+5/15/2024 17:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+5/15/2024 13:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,FALSE,Afternoon
+5/15/2024 10:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Morning
+5/15/2024 13:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,FALSE,Afternoon
+5/16/2024 13:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+5/16/2024 17:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Evening
+5/16/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Evening
+5/16/2024 17:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,FALSE,Evening
+5/16/2024 17:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+5/16/2024 13:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Afternoon
+5/16/2024 10:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Morning
+5/16/2024 17:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Evening
+5/17/2024 17:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Evening
+5/17/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Morning
+5/17/2024 13:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Afternoon
+5/17/2024 17:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+5/17/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Evening
+5/17/2024 17:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Evening
+5/17/2024 10:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Morning
+5/17/2024 17:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Evening
+5/17/2024 10:00,House Made Wrap,Craft Lunch,4,9.9,39.6,TRUE,Morning
+5/17/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+5/17/2024 17:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+5/17/2024 13:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Afternoon
+5/17/2024 17:00,Tea,Hot Drinks,2,4.9,9.8,TRUE,Evening
+5/18/2024 13:00,Angus Beef Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+5/18/2024 13:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,FALSE,Afternoon
+5/18/2024 17:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Evening
+5/18/2024 17:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,TRUE,Evening
+5/18/2024 10:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Morning
+5/18/2024 17:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Evening
+5/18/2024 10:00,Raisin Toast,Craft Breakfast,1,5.9,5.9,FALSE,Morning
+5/18/2024 13:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,TRUE,Afternoon
+5/18/2024 10:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Morning
+5/18/2024 13:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,FALSE,Afternoon
+5/18/2024 17:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,TRUE,Evening
+5/18/2024 10:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,FALSE,Morning
+5/19/2024 17:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+5/19/2024 17:00,Sweet Potato Chips (L),Family Favourites,4,9.9,39.6,FALSE,Evening
+5/19/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Afternoon
+5/19/2024 17:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,TRUE,Evening
+5/19/2024 10:00,Barista Made Coffee (L),Hot Drinks,1,6.9,6.9,FALSE,Morning
+5/19/2024 17:00,Fish & Chips,Craft Lunch,2,16.9,33.8,FALSE,Evening
+5/19/2024 13:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,TRUE,Afternoon
+5/19/2024 17:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Evening
+5/19/2024 10:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Morning
+5/19/2024 17:00,Milkshake (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+5/19/2024 13:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,FALSE,Afternoon
+5/19/2024 13:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,TRUE,Afternoon
+5/20/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,4,6.9,27.6,FALSE,Afternoon
+5/20/2024 17:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Evening
+5/20/2024 10:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Morning
+5/20/2024 10:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Morning
+5/20/2024 13:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,TRUE,Afternoon
+5/20/2024 10:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+5/20/2024 17:00,Hot Chips (S),Family Favourites,4,5.9,23.6,TRUE,Evening
+5/20/2024 13:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+5/20/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Afternoon
+5/20/2024 10:00,Milkshake (Regular),Cold Drinks,4,7.9,31.6,FALSE,Morning
+5/20/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,TRUE,Afternoon
+5/20/2024 13:00,Hot Chips (S),Family Favourites,2,5.9,11.8,TRUE,Afternoon
+5/20/2024 13:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Afternoon
+5/21/2024 17:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,TRUE,Evening
+5/21/2024 17:00,Tea,Hot Drinks,1,4.9,4.9,FALSE,Evening
+5/21/2024 13:00,Iced Coffee (Large),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+5/21/2024 13:00,Sourdough Toast,Craft Breakfast,5,5.9,29.5,FALSE,Afternoon
+5/21/2024 17:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Evening
+5/21/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+5/21/2024 10:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Morning
+5/21/2024 17:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,TRUE,Evening
+5/21/2024 10:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+5/21/2024 13:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Afternoon
+5/21/2024 10:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,FALSE,Morning
+5/21/2024 13:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,TRUE,Afternoon
+5/22/2024 10:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Morning
+5/22/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Evening
+5/22/2024 17:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Evening
+5/22/2024 10:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Morning
+5/22/2024 13:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Afternoon
+5/22/2024 13:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Afternoon
+5/22/2024 17:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Evening
+5/22/2024 10:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Morning
+5/22/2024 10:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Morning
+5/22/2024 17:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,TRUE,Evening
+5/22/2024 17:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Evening
+5/22/2024 17:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+5/22/2024 10:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,FALSE,Morning
+5/22/2024 13:00,Barista Made Coffee (M),Hot Drinks,4,5.9,23.6,FALSE,Afternoon
+5/23/2024 17:00,Iced Coffee (Regular),Cold Drinks,1,7.9,7.9,TRUE,Evening
+5/23/2024 13:00,Barista Made Coffee (L),Hot Drinks,1,6.9,6.9,FALSE,Afternoon
+5/23/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,TRUE,Morning
+5/23/2024 10:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+5/23/2024 13:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Afternoon
+5/23/2024 10:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,TRUE,Morning
+5/23/2024 10:00,Wedges (L),Family Favourites,1,9.9,9.9,FALSE,Morning
+5/23/2024 13:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+5/23/2024 10:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,TRUE,Morning
+5/24/2024 10:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Morning
+5/24/2024 17:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Evening
+5/24/2024 13:00,Fish & Chips,Craft Lunch,3,16.9,50.7,TRUE,Afternoon
+5/24/2024 17:00,Raisin Toast,Craft Breakfast,3,5.9,17.7,TRUE,Evening
+5/24/2024 10:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Morning
+5/24/2024 13:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,TRUE,Afternoon
+5/24/2024 17:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Evening
+5/24/2024 17:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Evening
+5/24/2024 13:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Afternoon
+5/24/2024 13:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Afternoon
+5/25/2024 10:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,TRUE,Morning
+5/25/2024 13:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,TRUE,Afternoon
+5/25/2024 10:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Morning
+5/25/2024 13:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Afternoon
+5/25/2024 10:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,TRUE,Morning
+5/25/2024 13:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Afternoon
+5/25/2024 10:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,TRUE,Morning
+5/26/2024 13:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+5/26/2024 10:00,Chicken Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+5/26/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,4,12.9,51.6,TRUE,Evening
+5/26/2024 17:00,Milkshake (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+5/26/2024 13:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,TRUE,Afternoon
+5/26/2024 10:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Morning
+5/26/2024 17:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Evening
+5/26/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Evening
+5/26/2024 13:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,TRUE,Afternoon
+5/27/2024 13:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Afternoon
+5/27/2024 10:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Morning
+5/27/2024 17:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Evening
+5/27/2024 13:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Afternoon
+5/27/2024 17:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Evening
+5/27/2024 17:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,FALSE,Evening
+5/27/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Morning
+5/27/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Afternoon
+5/27/2024 10:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,TRUE,Morning
+5/27/2024 13:00,Ice Chocolate (Regular),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+5/27/2024 10:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Morning
+5/27/2024 17:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+5/28/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,TRUE,Morning
+5/28/2024 10:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Morning
+5/28/2024 13:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+5/28/2024 17:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Evening
+5/28/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,TRUE,Evening
+5/28/2024 17:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Evening
+5/28/2024 10:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+5/28/2024 13:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Afternoon
+5/29/2024 13:00,Wedges (S),Family Favourites,1,7.9,7.9,TRUE,Afternoon
+5/29/2024 17:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+5/29/2024 17:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+5/29/2024 13:00,Iced Coffee (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+5/29/2024 13:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,FALSE,Afternoon
+5/29/2024 17:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,TRUE,Evening
+5/29/2024 17:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Evening
+5/29/2024 13:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+5/30/2024 17:00,Salt & Pepper Squid,Craft Lunch,3,13.9,41.7,FALSE,Evening
+5/30/2024 13:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Afternoon
+5/30/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,FALSE,Morning
+5/30/2024 13:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Afternoon
+5/30/2024 13:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,FALSE,Afternoon
+5/30/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,FALSE,Afternoon
+5/30/2024 17:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+5/31/2024 10:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Morning
+5/31/2024 17:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Evening
+5/31/2024 17:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Evening
+5/31/2024 13:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Afternoon
+5/31/2024 13:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,TRUE,Afternoon
+6/1/2024 10:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Morning
+6/1/2024 17:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Evening
+6/1/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+6/1/2024 13:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Afternoon
+6/1/2024 17:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Evening
+6/1/2024 17:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Evening
+6/1/2024 10:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+6/1/2024 10:00,Hot Chips (L),Family Favourites,3,7.9,23.7,FALSE,Morning
+6/1/2024 17:00,House Made Roll,Craft Lunch,4,15.9,63.6,FALSE,Evening
+6/1/2024 10:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Morning
+6/1/2024 10:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Morning
+6/1/2024 17:00,House Made Roll,Craft Lunch,1,15.9,15.9,FALSE,Evening
+6/1/2024 10:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Morning
+6/2/2024 10:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Morning
+6/2/2024 17:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Evening
+6/2/2024 17:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Evening
+6/2/2024 17:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Evening
+6/2/2024 13:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Afternoon
+6/2/2024 17:00,Fish & Chips,Craft Lunch,2,16.9,33.8,FALSE,Evening
+6/2/2024 17:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,TRUE,Evening
+6/2/2024 10:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Morning
+6/2/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,4,12.9,51.6,TRUE,Morning
+6/2/2024 10:00,Barista Made Coffee (M),Hot Drinks,4,5.9,23.6,FALSE,Morning
+6/2/2024 10:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+6/2/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+6/2/2024 10:00,House Made Wrap,Craft Lunch,4,9.9,39.6,TRUE,Morning
+6/3/2024 10:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Morning
+6/3/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Afternoon
+6/3/2024 13:00,Barista Made Coffee (M),Hot Drinks,4,5.9,23.6,FALSE,Afternoon
+6/3/2024 17:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Evening
+6/3/2024 17:00,Fish & Chips,Craft Lunch,3,16.9,50.7,FALSE,Evening
+6/3/2024 13:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Afternoon
+6/3/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Evening
+6/3/2024 17:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Evening
+6/3/2024 10:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Morning
+6/4/2024 17:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,TRUE,Evening
+6/4/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,4,6.9,27.6,TRUE,Afternoon
+6/4/2024 17:00,Salt & Pepper Squid,Craft Lunch,3,13.9,41.7,FALSE,Evening
+6/4/2024 17:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Evening
+6/4/2024 17:00,Wedges (S),Family Favourites,5,7.9,39.5,TRUE,Evening
+6/4/2024 17:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Evening
+6/4/2024 17:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,TRUE,Evening
+6/4/2024 17:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Evening
+6/4/2024 10:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+6/4/2024 17:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Evening
+6/4/2024 17:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+6/4/2024 13:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Afternoon
+6/4/2024 10:00,Barista Made Coffee (L),Hot Drinks,4,6.9,27.6,FALSE,Morning
+6/5/2024 17:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,TRUE,Evening
+6/5/2024 13:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Afternoon
+6/5/2024 13:00,Hot Chips (L),Family Favourites,5,7.9,39.5,TRUE,Afternoon
+6/5/2024 10:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,FALSE,Morning
+6/5/2024 10:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Morning
+6/5/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,TRUE,Afternoon
+6/5/2024 13:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+6/5/2024 13:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+6/5/2024 17:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Evening
+6/5/2024 13:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Afternoon
+6/5/2024 10:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Morning
+6/5/2024 10:00,Sweet Potato Chips (S),Family Favourites,5,7.9,39.5,TRUE,Morning
+6/6/2024 13:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,TRUE,Afternoon
+6/6/2024 13:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+6/6/2024 17:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,TRUE,Evening
+6/6/2024 10:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+6/6/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+6/6/2024 17:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Evening
+6/7/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+6/7/2024 17:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Evening
+6/7/2024 10:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Morning
+6/7/2024 17:00,Veggie Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+6/7/2024 10:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Morning
+6/7/2024 10:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+6/7/2024 17:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Evening
+6/7/2024 10:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,TRUE,Morning
+6/7/2024 13:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+6/7/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+6/7/2024 10:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Morning
+6/7/2024 10:00,Hot Chips (S),Family Favourites,1,5.9,5.9,TRUE,Morning
+6/8/2024 13:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,FALSE,Afternoon
+6/8/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,TRUE,Morning
+6/8/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Morning
+6/8/2024 13:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+6/8/2024 17:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Evening
+6/8/2024 10:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Morning
+6/8/2024 10:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Morning
+6/9/2024 10:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Morning
+6/9/2024 10:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Morning
+6/9/2024 10:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Morning
+6/9/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Morning
+6/9/2024 13:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+6/9/2024 13:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,FALSE,Afternoon
+6/9/2024 10:00,Wedges (L),Family Favourites,5,9.9,49.5,TRUE,Morning
+6/9/2024 17:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Evening
+6/9/2024 17:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,FALSE,Evening
+6/10/2024 17:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Evening
+6/10/2024 10:00,Banana Bread,Craft Breakfast,5,6.5,32.5,FALSE,Morning
+6/10/2024 13:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Afternoon
+6/10/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,5,6.9,34.5,FALSE,Afternoon
+6/10/2024 17:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Evening
+6/11/2024 17:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,TRUE,Evening
+6/11/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Afternoon
+6/11/2024 13:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Afternoon
+6/11/2024 17:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Evening
+6/11/2024 13:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Afternoon
+6/11/2024 10:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+6/11/2024 10:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+6/11/2024 17:00,House Made Wrap,Craft Lunch,5,9.9,49.5,TRUE,Evening
+6/11/2024 17:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+6/11/2024 13:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,TRUE,Afternoon
+6/11/2024 10:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,FALSE,Morning
+6/11/2024 17:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Evening
+6/11/2024 10:00,Banana Bread,Craft Breakfast,5,6.5,32.5,FALSE,Morning
+6/11/2024 17:00,Hot Chips (L),Family Favourites,3,7.9,23.7,TRUE,Evening
+6/12/2024 17:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Evening
+6/12/2024 17:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,TRUE,Evening
+6/12/2024 17:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Evening
+6/12/2024 13:00,Fish & Chips,Craft Lunch,5,16.9,84.5,TRUE,Afternoon
+6/12/2024 17:00,Sweet Potato Chips (L),Family Favourites,4,9.9,39.6,FALSE,Evening
+6/12/2024 10:00,Chicken Schnitzel,Craft Lunch,1,16.9,16.9,TRUE,Morning
+6/12/2024 10:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Morning
+6/12/2024 10:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Morning
+6/12/2024 10:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,TRUE,Morning
+6/12/2024 17:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,TRUE,Evening
+6/12/2024 10:00,Wedges (L),Family Favourites,3,9.9,29.7,TRUE,Morning
+6/13/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,FALSE,Morning
+6/13/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,FALSE,Morning
+6/13/2024 10:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Morning
+6/13/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Evening
+6/13/2024 17:00,Fish & Chips,Craft Lunch,5,16.9,84.5,TRUE,Evening
+6/14/2024 10:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Morning
+6/14/2024 13:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,TRUE,Afternoon
+6/14/2024 17:00,Angus Beef Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+6/14/2024 13:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+6/14/2024 17:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,TRUE,Evening
+6/14/2024 10:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Morning
+6/15/2024 17:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,TRUE,Evening
+6/15/2024 13:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Afternoon
+6/15/2024 17:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Evening
+6/15/2024 13:00,Sourdough Toast,Craft Breakfast,5,5.9,29.5,FALSE,Afternoon
+6/15/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Morning
+6/15/2024 10:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Morning
+6/15/2024 10:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+6/15/2024 13:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Afternoon
+6/15/2024 10:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Morning
+6/15/2024 17:00,Milkshake (Regular),Cold Drinks,2,7.9,15.8,FALSE,Evening
+6/15/2024 13:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,FALSE,Afternoon
+6/15/2024 13:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,TRUE,Afternoon
+6/15/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,FALSE,Evening
+6/15/2024 10:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Morning
+6/16/2024 17:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+6/16/2024 13:00,Sweet Potato Chips (S),Family Favourites,5,7.9,39.5,TRUE,Afternoon
+6/16/2024 17:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Evening
+6/16/2024 10:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Morning
+6/16/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,FALSE,Afternoon
+6/16/2024 10:00,Sourdough Toast,Craft Breakfast,5,5.9,29.5,FALSE,Morning
+6/17/2024 17:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Evening
+6/17/2024 10:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Morning
+6/17/2024 10:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Morning
+6/17/2024 10:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,FALSE,Morning
+6/17/2024 10:00,Fish & Chips,Craft Lunch,5,16.9,84.5,TRUE,Morning
+6/17/2024 13:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Afternoon
+6/17/2024 13:00,Fish & Chips,Craft Lunch,1,16.9,16.9,TRUE,Afternoon
+6/18/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,4,6.9,27.6,FALSE,Evening
+6/18/2024 13:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+6/18/2024 13:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,FALSE,Afternoon
+6/18/2024 13:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Afternoon
+6/18/2024 10:00,Sweet Potato Chips (S),Family Favourites,1,7.9,7.9,TRUE,Morning
+6/18/2024 10:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,FALSE,Morning
+6/18/2024 13:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Afternoon
+6/18/2024 10:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Morning
+6/19/2024 10:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Morning
+6/19/2024 13:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,TRUE,Afternoon
+6/19/2024 13:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+6/19/2024 13:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Afternoon
+6/19/2024 13:00,Fish & Chips,Craft Lunch,2,16.9,33.8,TRUE,Afternoon
+6/19/2024 13:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+6/20/2024 10:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Morning
+6/20/2024 10:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Morning
+6/20/2024 17:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+6/20/2024 17:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Evening
+6/20/2024 13:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+6/20/2024 10:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Morning
+6/20/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,TRUE,Evening
+6/20/2024 17:00,Barista Made Coffee (L),Hot Drinks,4,6.9,27.6,FALSE,Evening
+6/20/2024 10:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Morning
+6/20/2024 17:00,Salt & Pepper Squid,Craft Lunch,3,13.9,41.7,FALSE,Evening
+6/20/2024 13:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Afternoon
+6/20/2024 17:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Evening
+6/20/2024 13:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+6/20/2024 13:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Afternoon
+6/21/2024 13:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+6/21/2024 17:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Evening
+6/21/2024 17:00,Barista Made Coffee (L),Hot Drinks,4,6.9,27.6,FALSE,Evening
+6/21/2024 17:00,Iced Coffee (Regular),Cold Drinks,1,7.9,7.9,FALSE,Evening
+6/21/2024 13:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Afternoon
+6/21/2024 13:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Afternoon
+6/21/2024 10:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Morning
+6/21/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Afternoon
+6/21/2024 10:00,Wedges (S),Family Favourites,3,7.9,23.7,FALSE,Morning
+6/21/2024 17:00,Iced Coffee (Large),Cold Drinks,2,8.9,17.8,FALSE,Evening
+6/21/2024 17:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Evening
+6/21/2024 10:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+6/22/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,FALSE,Morning
+6/22/2024 10:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Morning
+6/22/2024 17:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+6/22/2024 17:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Evening
+6/22/2024 13:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Afternoon
+6/22/2024 17:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Evening
+6/22/2024 10:00,Wedges (S),Family Favourites,5,7.9,39.5,FALSE,Morning
+6/22/2024 10:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Morning
+6/22/2024 10:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Morning
+6/22/2024 10:00,Raisin Toast,Craft Breakfast,3,5.9,17.7,FALSE,Morning
+6/22/2024 17:00,Tea,Hot Drinks,3,4.9,14.7,TRUE,Evening
+6/22/2024 13:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Afternoon
+6/22/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Morning
+6/22/2024 17:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,FALSE,Evening
+6/23/2024 13:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Afternoon
+6/23/2024 10:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Morning
+6/23/2024 17:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+6/23/2024 13:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Afternoon
+6/23/2024 13:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+6/23/2024 17:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Evening
+6/24/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Afternoon
+6/24/2024 10:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,TRUE,Morning
+6/24/2024 13:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Afternoon
+6/24/2024 13:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+6/24/2024 13:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,FALSE,Afternoon
+6/24/2024 17:00,Wedges (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+6/24/2024 13:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Afternoon
+6/24/2024 17:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+6/24/2024 17:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Evening
+6/24/2024 17:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,TRUE,Evening
+6/24/2024 10:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Morning
+6/24/2024 10:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Morning
+6/24/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Afternoon
+6/25/2024 13:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Afternoon
+6/25/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,TRUE,Evening
+6/25/2024 13:00,House Made Wrap,Craft Lunch,1,9.9,9.9,TRUE,Afternoon
+6/25/2024 13:00,Barista Made Coffee (L),Hot Drinks,3,6.9,20.7,FALSE,Afternoon
+6/25/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Evening
+6/25/2024 13:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+6/25/2024 13:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+6/25/2024 10:00,Tea,Hot Drinks,4,4.9,19.6,FALSE,Morning
+6/25/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Evening
+6/25/2024 10:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Morning
+6/25/2024 17:00,Banana Bread,Craft Breakfast,5,6.5,32.5,FALSE,Evening
+6/25/2024 17:00,Chicken Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+6/25/2024 10:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Morning
+6/25/2024 10:00,Tea,Hot Drinks,2,4.9,9.8,FALSE,Morning
+6/26/2024 10:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Morning
+6/26/2024 17:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Evening
+6/26/2024 17:00,House Made Roll,Craft Lunch,4,15.9,63.6,FALSE,Evening
+6/26/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,2,6.9,13.8,TRUE,Afternoon
+6/26/2024 10:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Morning
+6/26/2024 17:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Evening
+6/26/2024 13:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+6/26/2024 13:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Afternoon
+6/26/2024 17:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Evening
+6/27/2024 13:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Afternoon
+6/27/2024 10:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+6/27/2024 10:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Morning
+6/27/2024 13:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+6/27/2024 17:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+6/27/2024 17:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Evening
+6/27/2024 13:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,TRUE,Afternoon
+6/27/2024 17:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Evening
+6/28/2024 13:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,TRUE,Afternoon
+6/28/2024 17:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+6/28/2024 10:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Morning
+6/28/2024 13:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+6/28/2024 13:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,TRUE,Afternoon
+6/28/2024 17:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,TRUE,Evening
+6/28/2024 13:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+6/28/2024 17:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,TRUE,Evening
+6/28/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Afternoon
+6/28/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,FALSE,Evening
+6/29/2024 17:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+6/29/2024 17:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+6/29/2024 10:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+6/29/2024 13:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+6/29/2024 10:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+6/29/2024 10:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,TRUE,Morning
+6/29/2024 17:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,FALSE,Evening
+6/29/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,TRUE,Afternoon
+6/29/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Afternoon
+6/30/2024 17:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Evening
+6/30/2024 10:00,House Made Wrap,Craft Lunch,2,9.9,19.8,TRUE,Morning
+6/30/2024 10:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Morning
+6/30/2024 10:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,FALSE,Morning
+6/30/2024 10:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Morning
+6/30/2024 10:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Morning
+6/30/2024 10:00,Milkshake (Regular),Cold Drinks,2,7.9,15.8,FALSE,Morning
+6/30/2024 17:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+6/30/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,4,6.9,27.6,FALSE,Afternoon
+7/1/2024 17:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Evening
+7/1/2024 17:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+7/1/2024 17:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Evening
+7/1/2024 17:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+7/1/2024 13:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+7/1/2024 10:00,House Made Roll,Craft Lunch,4,15.9,63.6,TRUE,Morning
+7/1/2024 17:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+7/1/2024 17:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+7/2/2024 17:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Evening
+7/2/2024 10:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,FALSE,Morning
+7/2/2024 17:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Evening
+7/2/2024 10:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+7/2/2024 10:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Morning
+7/2/2024 13:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+7/2/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Morning
+7/3/2024 13:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Afternoon
+7/3/2024 17:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Evening
+7/3/2024 10:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+7/3/2024 17:00,Wedges (S),Family Favourites,4,7.9,31.6,TRUE,Evening
+7/3/2024 10:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Morning
+7/3/2024 13:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,FALSE,Afternoon
+7/3/2024 10:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Morning
+7/3/2024 13:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,TRUE,Afternoon
+7/3/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+7/3/2024 10:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Morning
+7/3/2024 10:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Morning
+7/3/2024 17:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+7/3/2024 13:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Afternoon
+7/3/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Evening
+7/4/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,2,6.9,13.8,FALSE,Afternoon
+7/4/2024 13:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+7/4/2024 10:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Morning
+7/4/2024 17:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+7/4/2024 13:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Afternoon
+7/4/2024 13:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+7/4/2024 10:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Morning
+7/5/2024 17:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Evening
+7/5/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,1,7.9,7.9,FALSE,Evening
+7/5/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Afternoon
+7/5/2024 10:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,TRUE,Morning
+7/5/2024 17:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Evening
+7/5/2024 17:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Evening
+7/5/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,TRUE,Afternoon
+7/5/2024 17:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+7/5/2024 13:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,TRUE,Afternoon
+7/5/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Morning
+7/5/2024 17:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Evening
+7/5/2024 10:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Morning
+7/6/2024 13:00,Hot Chips (L),Family Favourites,2,7.9,15.8,TRUE,Afternoon
+7/6/2024 17:00,Wedges (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+7/6/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,TRUE,Evening
+7/6/2024 10:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Morning
+7/6/2024 10:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Morning
+7/6/2024 17:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Evening
+7/7/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,5,12.9,64.5,TRUE,Evening
+7/7/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,FALSE,Afternoon
+7/7/2024 17:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+7/7/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,TRUE,Morning
+7/7/2024 10:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Morning
+7/8/2024 13:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Afternoon
+7/8/2024 10:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Morning
+7/8/2024 10:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,TRUE,Morning
+7/8/2024 17:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,FALSE,Evening
+7/8/2024 13:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Afternoon
+7/8/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Morning
+7/8/2024 13:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,FALSE,Afternoon
+7/8/2024 10:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,TRUE,Morning
+7/8/2024 17:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Evening
+7/8/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Afternoon
+7/8/2024 17:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,TRUE,Evening
+7/8/2024 10:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Morning
+7/9/2024 17:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,FALSE,Evening
+7/9/2024 10:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Morning
+7/9/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Morning
+7/9/2024 17:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Evening
+7/9/2024 13:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Afternoon
+7/9/2024 17:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,FALSE,Evening
+7/9/2024 17:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,TRUE,Evening
+7/9/2024 13:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+7/9/2024 13:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,TRUE,Afternoon
+7/9/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Afternoon
+7/10/2024 17:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,FALSE,Evening
+7/10/2024 17:00,Raisin Toast,Craft Breakfast,1,5.9,5.9,TRUE,Evening
+7/10/2024 17:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,FALSE,Evening
+7/10/2024 10:00,Fish Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+7/10/2024 17:00,Iced Coffee (Regular),Cold Drinks,3,7.9,23.7,FALSE,Evening
+7/11/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+7/11/2024 10:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Morning
+7/11/2024 17:00,Tea,Hot Drinks,1,4.9,4.9,TRUE,Evening
+7/11/2024 10:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Morning
+7/11/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+7/11/2024 17:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+7/11/2024 10:00,Angus Beef Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+7/12/2024 10:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Morning
+7/12/2024 17:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Evening
+7/12/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,FALSE,Afternoon
+7/12/2024 13:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+7/12/2024 10:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Morning
+7/12/2024 17:00,Sweet Potato Chips (S),Family Favourites,4,7.9,31.6,FALSE,Evening
+7/13/2024 10:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Morning
+7/13/2024 17:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Evening
+7/13/2024 13:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+7/13/2024 17:00,Banana Bread,Craft Breakfast,3,6.5,19.5,TRUE,Evening
+7/13/2024 10:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Morning
+7/13/2024 17:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+7/13/2024 10:00,Wedges (S),Family Favourites,5,7.9,39.5,FALSE,Morning
+7/13/2024 13:00,Raisin Toast,Craft Breakfast,3,5.9,17.7,FALSE,Afternoon
+7/13/2024 13:00,House Made Roll,Craft Lunch,4,15.9,63.6,FALSE,Afternoon
+7/14/2024 17:00,Tea,Hot Drinks,1,4.9,4.9,FALSE,Evening
+7/14/2024 13:00,House Made Roll,Craft Lunch,2,15.9,31.8,FALSE,Afternoon
+7/14/2024 10:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+7/14/2024 17:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Evening
+7/14/2024 10:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Morning
+7/14/2024 13:00,Barista Made Coffee (L),Hot Drinks,3,6.9,20.7,FALSE,Afternoon
+7/14/2024 13:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,TRUE,Afternoon
+7/14/2024 10:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Morning
+7/14/2024 17:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+7/14/2024 17:00,House Made Wrap,Craft Lunch,5,9.9,49.5,TRUE,Evening
+7/14/2024 17:00,Sweet Potato Chips (S),Family Favourites,1,7.9,7.9,FALSE,Evening
+7/15/2024 10:00,Fish & Chips,Craft Lunch,2,16.9,33.8,FALSE,Morning
+7/15/2024 10:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,TRUE,Morning
+7/15/2024 10:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+7/15/2024 17:00,Sourdough Toast,Craft Breakfast,5,5.9,29.5,FALSE,Evening
+7/15/2024 10:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Morning
+7/15/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Evening
+7/15/2024 13:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+7/16/2024 13:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+7/16/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Afternoon
+7/16/2024 17:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,FALSE,Evening
+7/16/2024 17:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Evening
+7/16/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,TRUE,Afternoon
+7/16/2024 10:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Morning
+7/16/2024 10:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Morning
+7/16/2024 10:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Morning
+7/16/2024 10:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,TRUE,Morning
+7/16/2024 10:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,FALSE,Morning
+7/16/2024 17:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+7/17/2024 17:00,Raisin Toast,Craft Breakfast,3,5.9,17.7,FALSE,Evening
+7/17/2024 10:00,Wedges (L),Family Favourites,2,9.9,19.8,TRUE,Morning
+7/17/2024 17:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+7/17/2024 17:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Evening
+7/17/2024 10:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Morning
+7/17/2024 10:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Morning
+7/17/2024 13:00,Hot Chips (L),Family Favourites,5,7.9,39.5,TRUE,Afternoon
+7/17/2024 10:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Morning
+7/17/2024 13:00,Sourdough Toast,Craft Breakfast,3,5.9,17.7,FALSE,Afternoon
+7/17/2024 13:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+7/18/2024 17:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Evening
+7/18/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Morning
+7/18/2024 13:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Afternoon
+7/18/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Morning
+7/18/2024 13:00,Chicken Schnitzel,Craft Lunch,3,16.9,50.7,FALSE,Afternoon
+7/18/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,TRUE,Evening
+7/19/2024 10:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,TRUE,Morning
+7/19/2024 17:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Evening
+7/19/2024 17:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Evening
+7/19/2024 17:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Evening
+7/19/2024 17:00,Sweet Potato Chips (S),Family Favourites,5,7.9,39.5,FALSE,Evening
+7/19/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,5,6.9,34.5,FALSE,Evening
+7/19/2024 10:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Morning
+7/19/2024 10:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Morning
+7/19/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,FALSE,Morning
+7/19/2024 17:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+7/19/2024 17:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Evening
+7/19/2024 10:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Morning
+7/19/2024 13:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+7/19/2024 17:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+7/20/2024 10:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Morning
+7/20/2024 13:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Afternoon
+7/20/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+7/20/2024 17:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,TRUE,Evening
+7/20/2024 10:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,TRUE,Morning
+7/20/2024 10:00,Iced Coffee (Large),Cold Drinks,3,8.9,26.7,FALSE,Morning
+7/20/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,TRUE,Morning
+7/20/2024 10:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Morning
+7/20/2024 17:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+7/20/2024 13:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+7/21/2024 17:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+7/21/2024 13:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+7/21/2024 17:00,House Made Roll,Craft Lunch,3,15.9,47.7,FALSE,Evening
+7/21/2024 10:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,FALSE,Morning
+7/21/2024 13:00,Iced Coffee (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+7/21/2024 10:00,House Made Roll,Craft Lunch,4,15.9,63.6,FALSE,Morning
+7/21/2024 13:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Afternoon
+7/22/2024 10:00,Ham & Cheese Croissant,Craft Breakfast,3,7.9,23.7,TRUE,Morning
+7/22/2024 10:00,Wedges (S),Family Favourites,5,7.9,39.5,FALSE,Morning
+7/22/2024 13:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Afternoon
+7/22/2024 10:00,Milkshake (Regular),Cold Drinks,4,7.9,31.6,TRUE,Morning
+7/22/2024 17:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Evening
+7/22/2024 17:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,TRUE,Evening
+7/22/2024 10:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Morning
+7/22/2024 10:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Morning
+7/22/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,1,8.9,8.9,FALSE,Evening
+7/22/2024 10:00,Barista Made Coffee (L),Hot Drinks,4,6.9,27.6,FALSE,Morning
+7/23/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,TRUE,Afternoon
+7/23/2024 10:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Morning
+7/23/2024 10:00,Raisin Toast,Craft Breakfast,4,5.9,23.6,FALSE,Morning
+7/23/2024 17:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+7/23/2024 13:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Afternoon
+7/23/2024 10:00,Wedges (L),Family Favourites,1,9.9,9.9,TRUE,Morning
+7/23/2024 17:00,Hot Chips (L),Family Favourites,2,7.9,15.8,FALSE,Evening
+7/23/2024 17:00,Barista Made Coffee (L),Hot Drinks,4,6.9,27.6,FALSE,Evening
+7/23/2024 10:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Morning
+7/23/2024 17:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Evening
+7/24/2024 17:00,Hot Chips (S),Family Favourites,1,5.9,5.9,TRUE,Evening
+7/24/2024 13:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Afternoon
+7/24/2024 17:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Evening
+7/24/2024 13:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Afternoon
+7/24/2024 13:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Afternoon
+7/24/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,FALSE,Morning
+7/24/2024 13:00,Hot Chips (L),Family Favourites,3,7.9,23.7,FALSE,Afternoon
+7/24/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Evening
+7/24/2024 13:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+7/24/2024 17:00,Sweet Potato Chips (L),Family Favourites,3,9.9,29.7,FALSE,Evening
+7/24/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Morning
+7/24/2024 17:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+7/24/2024 13:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+7/25/2024 10:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Morning
+7/25/2024 10:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Morning
+7/25/2024 13:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Afternoon
+7/25/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,TRUE,Afternoon
+7/25/2024 10:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Morning
+7/25/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Morning
+7/25/2024 10:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Morning
+7/25/2024 13:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+7/25/2024 13:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Afternoon
+7/25/2024 13:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,2,6.9,13.8,FALSE,Afternoon
+7/25/2024 13:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+7/25/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,5,7.9,39.5,FALSE,Afternoon
+7/26/2024 17:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Evening
+7/26/2024 17:00,Chicken Strips (3),Little Buddy Favourites,4,10,40,FALSE,Evening
+7/26/2024 17:00,Barista Made Coffee (L),Hot Drinks,1,6.9,6.9,FALSE,Evening
+7/26/2024 13:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Afternoon
+7/26/2024 17:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Evening
+7/26/2024 10:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Morning
+7/26/2024 10:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Morning
+7/26/2024 10:00,Milkshake (Large),Cold Drinks,5,8.9,44.5,TRUE,Morning
+7/26/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,TRUE,Morning
+7/26/2024 13:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+7/26/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,5,6.9,34.5,TRUE,Morning
+7/27/2024 13:00,Banana Bread,Craft Breakfast,1,6.5,6.5,FALSE,Afternoon
+7/27/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+7/27/2024 13:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Afternoon
+7/27/2024 17:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Evening
+7/27/2024 13:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+7/27/2024 10:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,FALSE,Morning
+7/27/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,TRUE,Evening
+7/27/2024 10:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Morning
+7/27/2024 10:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Morning
+7/27/2024 13:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+7/27/2024 10:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+7/27/2024 13:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,TRUE,Afternoon
+7/27/2024 17:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Evening
+7/27/2024 17:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Evening
+7/28/2024 10:00,Salt & Pepper Squid,Craft Lunch,3,13.9,41.7,FALSE,Morning
+7/28/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+7/28/2024 17:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,TRUE,Evening
+7/28/2024 10:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Morning
+7/28/2024 13:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+7/28/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,TRUE,Afternoon
+7/28/2024 13:00,House Made Wrap,Craft Lunch,5,9.9,49.5,TRUE,Afternoon
+7/28/2024 17:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Evening
+7/28/2024 10:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Morning
+7/28/2024 10:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Morning
+7/28/2024 13:00,Milkshake (Regular),Cold Drinks,4,7.9,31.6,FALSE,Afternoon
+7/28/2024 17:00,Hot Chips (S),Family Favourites,4,5.9,23.6,TRUE,Evening
+7/28/2024 13:00,House Made Wrap,Craft Lunch,2,9.9,19.8,TRUE,Afternoon
+7/29/2024 13:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Afternoon
+7/29/2024 17:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Evening
+7/29/2024 10:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Morning
+7/29/2024 17:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Evening
+7/29/2024 17:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Evening
+7/29/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,2,7.9,15.8,FALSE,Evening
+7/29/2024 10:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,FALSE,Morning
+7/29/2024 13:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Afternoon
+7/29/2024 13:00,Hot Chocolate (M),Hot Drinks,1,5.9,5.9,FALSE,Afternoon
+7/29/2024 17:00,Sourdough Toast,Craft Breakfast,3,5.9,17.7,TRUE,Evening
+7/29/2024 17:00,Chicken Schnitzel,Craft Lunch,2,16.9,33.8,FALSE,Evening
+7/30/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Evening
+7/30/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,2,6.9,13.8,FALSE,Evening
+7/30/2024 10:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,TRUE,Morning
+7/30/2024 17:00,Chai Latte (S),Hot Drinks,2,4.9,9.8,FALSE,Evening
+7/30/2024 17:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,TRUE,Evening
+7/30/2024 10:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Morning
+7/30/2024 13:00,House Made Wrap,Craft Lunch,5,9.9,49.5,FALSE,Afternoon
+7/30/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Morning
+7/30/2024 13:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+7/31/2024 13:00,Milkshake (Regular),Cold Drinks,1,7.9,7.9,FALSE,Afternoon
+7/31/2024 17:00,Barista Made Coffee (S),Hot Drinks,1,4.9,4.9,TRUE,Evening
+7/31/2024 10:00,Hot Chips (L),Family Favourites,4,7.9,31.6,TRUE,Morning
+7/31/2024 17:00,Raisin Toast,Craft Breakfast,1,5.9,5.9,FALSE,Evening
+7/31/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Evening
+7/31/2024 17:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+7/31/2024 10:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+7/31/2024 17:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,TRUE,Evening
+7/31/2024 10:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Morning
+7/31/2024 13:00,Iced Coffee (Large),Cold Drinks,3,8.9,26.7,TRUE,Afternoon
+7/31/2024 13:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+7/31/2024 13:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+7/31/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,TRUE,Evening
+7/31/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+8/1/2024 17:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Evening
+8/1/2024 17:00,Milkshake (Regular),Cold Drinks,2,7.9,15.8,FALSE,Evening
+8/1/2024 17:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,FALSE,Evening
+8/1/2024 17:00,Milkshake (Regular),Cold Drinks,2,7.9,15.8,FALSE,Evening
+8/1/2024 13:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Afternoon
+8/1/2024 13:00,Veggie Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+8/1/2024 17:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Evening
+8/1/2024 10:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,TRUE,Morning
+8/1/2024 10:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,FALSE,Morning
+8/1/2024 13:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Afternoon
+8/2/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,2,12.9,25.8,FALSE,Evening
+8/2/2024 13:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Afternoon
+8/2/2024 17:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,TRUE,Evening
+8/2/2024 10:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+8/2/2024 13:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+8/2/2024 13:00,Tea,Hot Drinks,1,4.9,4.9,FALSE,Afternoon
+8/2/2024 17:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Evening
+8/2/2024 13:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,FALSE,Afternoon
+8/2/2024 13:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Afternoon
+8/3/2024 10:00,Banana Bread,Craft Breakfast,3,6.5,19.5,FALSE,Morning
+8/3/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Evening
+8/3/2024 13:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Afternoon
+8/3/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Morning
+8/3/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,FALSE,Evening
+8/3/2024 17:00,Banana Bread,Craft Breakfast,2,6.5,13,TRUE,Evening
+8/3/2024 17:00,Salt & Pepper Squid,Craft Lunch,1,13.9,13.9,FALSE,Evening
+8/3/2024 10:00,Hot Chips (S),Family Favourites,3,5.9,17.7,FALSE,Morning
+8/3/2024 13:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+8/3/2024 17:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Evening
+8/3/2024 10:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Morning
+8/3/2024 10:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Morning
+8/3/2024 17:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Evening
+8/3/2024 13:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Afternoon
+8/4/2024 13:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Afternoon
+8/4/2024 13:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Afternoon
+8/4/2024 13:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Afternoon
+8/4/2024 17:00,House Made Roll,Craft Lunch,3,15.9,47.7,FALSE,Evening
+8/4/2024 17:00,Ham & Cheese Croissant,Craft Breakfast,4,7.9,31.6,FALSE,Evening
+8/4/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,FALSE,Morning
+8/5/2024 10:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Morning
+8/5/2024 17:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Evening
+8/5/2024 13:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+8/5/2024 13:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,TRUE,Afternoon
+8/5/2024 17:00,Veggie Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Evening
+8/5/2024 13:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+8/5/2024 17:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,TRUE,Evening
+8/6/2024 17:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+8/6/2024 10:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,TRUE,Morning
+8/6/2024 10:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Morning
+8/6/2024 10:00,Hot Chips (S),Family Favourites,4,5.9,23.6,TRUE,Morning
+8/6/2024 13:00,Fish & Chips,Craft Lunch,1,16.9,16.9,TRUE,Afternoon
+8/6/2024 10:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Morning
+8/6/2024 13:00,Ice Chocolate (Regular),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+8/6/2024 10:00,Milkshake (Regular),Cold Drinks,4,7.9,31.6,FALSE,Morning
+8/6/2024 17:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Evening
+8/7/2024 10:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Morning
+8/7/2024 17:00,Chicken Strips (1),Little Buddy Favourites,1,4,4,FALSE,Evening
+8/7/2024 17:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,TRUE,Evening
+8/7/2024 10:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Morning
+8/7/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,1,6.9,6.9,TRUE,Morning
+8/7/2024 13:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,TRUE,Afternoon
+8/7/2024 10:00,Sweet Potato Chips (S),Family Favourites,5,7.9,39.5,FALSE,Morning
+8/7/2024 13:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+8/7/2024 17:00,House Made Wrap,Craft Lunch,4,9.9,39.6,FALSE,Evening
+8/7/2024 10:00,Barista Made Coffee (L),Hot Drinks,3,6.9,20.7,FALSE,Morning
+8/8/2024 10:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Morning
+8/8/2024 10:00,House Made Roll,Craft Lunch,1,15.9,15.9,FALSE,Morning
+8/8/2024 13:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,TRUE,Afternoon
+8/8/2024 13:00,House Made Wrap,Craft Lunch,2,9.9,19.8,FALSE,Afternoon
+8/8/2024 13:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Afternoon
+8/8/2024 10:00,Chicken Strips (1),Little Buddy Favourites,3,4,12,FALSE,Morning
+8/8/2024 17:00,House Made Wrap,Craft Lunch,3,9.9,29.7,FALSE,Evening
+8/8/2024 10:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Morning
+8/8/2024 10:00,Wedges (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+8/9/2024 13:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Afternoon
+8/9/2024 13:00,Fish Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+8/9/2024 17:00,Sweet Potato Chips (S),Family Favourites,1,7.9,7.9,TRUE,Evening
+8/9/2024 17:00,Chicken Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Evening
+8/9/2024 10:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,TRUE,Morning
+8/9/2024 13:00,Wedges (S),Family Favourites,3,7.9,23.7,TRUE,Afternoon
+8/9/2024 13:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,TRUE,Afternoon
+8/9/2024 13:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+8/9/2024 10:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Morning
+8/9/2024 17:00,Wedges (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+8/9/2024 17:00,Iced Coffee (Large),Cold Drinks,2,8.9,17.8,FALSE,Evening
+8/10/2024 13:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Afternoon
+8/10/2024 13:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+8/10/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Afternoon
+8/10/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Afternoon
+8/10/2024 10:00,Chicken Strips (1),Little Buddy Favourites,5,4,20,FALSE,Morning
+8/10/2024 10:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,FALSE,Morning
+8/10/2024 17:00,Salt & Pepper Squid,Craft Lunch,2,13.9,27.8,TRUE,Evening
+8/10/2024 13:00,Ham & Cheese Croissant,Craft Breakfast,1,7.9,7.9,TRUE,Afternoon
+8/10/2024 17:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Evening
+8/11/2024 17:00,Hot Chips (L),Family Favourites,5,7.9,39.5,FALSE,Evening
+8/11/2024 17:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Evening
+8/11/2024 10:00,Barista Made Coffee (M),Hot Drinks,3,5.9,17.7,FALSE,Morning
+8/11/2024 17:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Evening
+8/11/2024 17:00,Fish & Chips,Craft Lunch,1,16.9,16.9,FALSE,Evening
+8/11/2024 17:00,Bacon & Egg Sandwich,Craft Breakfast,1,12.9,12.9,FALSE,Evening
+8/11/2024 17:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,FALSE,Evening
+8/11/2024 10:00,Iced Coffee (Large),Cold Drinks,4,8.9,35.6,FALSE,Morning
+8/11/2024 13:00,Raisin Toast,Craft Breakfast,5,5.9,29.5,FALSE,Afternoon
+8/12/2024 17:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Evening
+8/12/2024 10:00,Barista Made Coffee (M),Hot Drinks,4,5.9,23.6,FALSE,Morning
+8/12/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,5,6.9,34.5,FALSE,Evening
+8/12/2024 17:00,House Made Roll,Craft Lunch,1,15.9,15.9,FALSE,Evening
+8/12/2024 17:00,House Made Roll,Craft Lunch,1,15.9,15.9,TRUE,Evening
+8/12/2024 17:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,FALSE,Evening
+8/12/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,TRUE,Morning
+8/12/2024 10:00,Iced Coffee (Large),Cold Drinks,4,8.9,35.6,FALSE,Morning
+8/13/2024 13:00,Milkshake (Large),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+8/13/2024 13:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+8/13/2024 17:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Evening
+8/13/2024 13:00,House Made Roll,Craft Lunch,1,15.9,15.9,FALSE,Afternoon
+8/13/2024 13:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Afternoon
+8/13/2024 17:00,Iced Coffee (Regular),Cold Drinks,1,7.9,7.9,TRUE,Evening
+8/13/2024 10:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,FALSE,Morning
+8/13/2024 10:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,TRUE,Morning
+8/13/2024 10:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Morning
+8/13/2024 10:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Morning
+8/13/2024 13:00,Iced Coffee (Regular),Cold Drinks,2,7.9,15.8,FALSE,Afternoon
+8/13/2024 13:00,Sourdough Toast,Craft Breakfast,4,5.9,23.6,FALSE,Afternoon
+8/13/2024 13:00,Barista Made Coffee (L),Hot Drinks,3,6.9,20.7,TRUE,Afternoon
+8/14/2024 17:00,Ice Chocolate (Regular),Cold Drinks,1,8.9,8.9,FALSE,Evening
+8/14/2024 10:00,Barista Made Coffee (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+8/14/2024 13:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+8/14/2024 13:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+8/14/2024 13:00,Barista Made Coffee (M),Hot Drinks,2,5.9,11.8,FALSE,Afternoon
+8/14/2024 10:00,Banana Bread,Craft Breakfast,1,6.5,6.5,FALSE,Morning
+8/14/2024 17:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Evening
+8/14/2024 17:00,Raisin Toast,Craft Breakfast,2,5.9,11.8,TRUE,Evening
+8/14/2024 13:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,FALSE,Afternoon
+8/14/2024 13:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+8/14/2024 13:00,House Made Wrap,Craft Lunch,4,9.9,39.6,TRUE,Afternoon
+8/14/2024 17:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Evening
+8/14/2024 13:00,Iced Coffee (Large),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+8/15/2024 10:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,FALSE,Morning
+8/15/2024 10:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Morning
+8/15/2024 13:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+8/15/2024 13:00,Hot Chips (S),Family Favourites,5,5.9,29.5,FALSE,Afternoon
+8/15/2024 13:00,Ice Chocolate (Regular),Cold Drinks,3,8.9,26.7,FALSE,Afternoon
+8/15/2024 13:00,Milkshake (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+8/15/2024 10:00,Hot Chips (L),Family Favourites,1,7.9,7.9,FALSE,Morning
+8/15/2024 10:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Morning
+8/15/2024 13:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,TRUE,Afternoon
+8/15/2024 17:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Evening
+8/16/2024 10:00,House Made Wrap,Craft Lunch,1,9.9,9.9,TRUE,Morning
+8/16/2024 17:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,TRUE,Evening
+8/16/2024 17:00,House Made Roll,Craft Lunch,2,15.9,31.8,TRUE,Evening
+8/16/2024 17:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+8/16/2024 13:00,Iced Coffee (Large),Cold Drinks,1,8.9,8.9,FALSE,Afternoon
+8/16/2024 17:00,Barista Made Coffee (S),Hot Drinks,5,4.9,24.5,FALSE,Evening
+8/17/2024 10:00,Chai Latte (S),Hot Drinks,3,4.9,14.7,FALSE,Morning
+8/17/2024 13:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Afternoon
+8/17/2024 17:00,Chicken Strips (1),Little Buddy Favourites,2,4,8,TRUE,Evening
+8/17/2024 13:00,Fish & Chips,Craft Lunch,1,16.9,16.9,TRUE,Afternoon
+8/17/2024 13:00,Angus Beef Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+8/18/2024 17:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Evening
+8/18/2024 13:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,FALSE,Afternoon
+8/18/2024 13:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Afternoon
+8/18/2024 10:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Morning
+8/18/2024 10:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+8/18/2024 10:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Morning
+8/18/2024 13:00,Sweet Potato Chips (S),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+8/18/2024 17:00,Chicken Schnitzel,Craft Lunch,5,16.9,84.5,FALSE,Evening
+8/19/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,2,8.9,17.8,FALSE,Morning
+8/19/2024 10:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+8/19/2024 13:00,Wedges (S),Family Favourites,3,7.9,23.7,FALSE,Afternoon
+8/19/2024 17:00,Angus Beef Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Evening
+8/19/2024 10:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Morning
+8/19/2024 10:00,Wedges (L),Family Favourites,4,9.9,39.6,FALSE,Morning
+8/19/2024 17:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,TRUE,Evening
+8/19/2024 17:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,FALSE,Evening
+8/19/2024 10:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Morning
+8/19/2024 10:00,Chicken Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+8/19/2024 13:00,Angus Beef Burger,Gourmet Burgers,3,12.9,38.7,FALSE,Afternoon
+8/19/2024 10:00,Chai Latte (S),Hot Drinks,4,4.9,19.6,FALSE,Morning
+8/20/2024 13:00,House Made Roll,Craft Lunch,3,15.9,47.7,FALSE,Afternoon
+8/20/2024 13:00,Salt & Pepper Squid,Craft Lunch,4,13.9,55.6,FALSE,Afternoon
+8/20/2024 10:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,FALSE,Morning
+8/20/2024 10:00,Chai Latte (S),Hot Drinks,5,4.9,24.5,FALSE,Morning
+8/20/2024 10:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,FALSE,Morning
+8/20/2024 10:00,Ice Chocolate (Regular),Cold Drinks,2,8.9,17.8,TRUE,Morning
+8/20/2024 17:00,Ice Chocolate (Regular),Cold Drinks,5,8.9,44.5,FALSE,Evening
+8/20/2024 13:00,Hot Chips (L),Family Favourites,3,7.9,23.7,FALSE,Afternoon
+8/20/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+8/21/2024 13:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Afternoon
+8/21/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Afternoon
+8/21/2024 17:00,Banana Bread,Craft Breakfast,1,6.5,6.5,FALSE,Evening
+8/21/2024 13:00,Wedges (L),Family Favourites,1,9.9,9.9,FALSE,Afternoon
+8/21/2024 17:00,Sourdough Toast,Craft Breakfast,5,5.9,29.5,TRUE,Evening
+8/21/2024 17:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Evening
+8/21/2024 13:00,Hot Chips (S),Family Favourites,1,5.9,5.9,FALSE,Afternoon
+8/21/2024 13:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Afternoon
+8/21/2024 17:00,Chicken Schnitzel,Craft Lunch,4,16.9,67.6,FALSE,Evening
+8/21/2024 13:00,Bacon & Egg Sandwich,Craft Breakfast,3,12.9,38.7,TRUE,Afternoon
+8/21/2024 17:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Evening
+8/21/2024 13:00,Sweet Potato Chips (S),Family Favourites,3,7.9,23.7,TRUE,Afternoon
+8/22/2024 13:00,Chicken Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Afternoon
+8/22/2024 10:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Morning
+8/22/2024 10:00,Sweet Potato Chips (L),Family Favourites,1,9.9,9.9,FALSE,Morning
+8/22/2024 17:00,3 Fish Fingers + Chips,Little Buddy Favourites,3,8.9,26.7,FALSE,Evening
+8/22/2024 17:00,Iced Coffee (Regular),Cold Drinks,1,7.9,7.9,FALSE,Evening
+8/22/2024 17:00,Barista Made Coffee (L),Hot Drinks,2,6.9,13.8,FALSE,Evening
+8/22/2024 13:00,Hot Chips (S),Family Favourites,2,5.9,11.8,FALSE,Afternoon
+8/22/2024 10:00,Veggie Burger,Gourmet Burgers,1,12.9,12.9,FALSE,Morning
+8/23/2024 10:00,Fish Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+8/23/2024 10:00,Hot Chocolate (M),Hot Drinks,4,5.9,23.6,FALSE,Morning
+8/23/2024 10:00,Iced Coffee (Large),Cold Drinks,5,8.9,44.5,FALSE,Morning
+8/23/2024 17:00,Barista Made Coffee (L),Hot Drinks,1,6.9,6.9,FALSE,Evening
+8/23/2024 10:00,Iced Coffee (Regular),Cold Drinks,5,7.9,39.5,FALSE,Morning
+8/24/2024 10:00,Barista Made Coffee (M),Hot Drinks,1,5.9,5.9,FALSE,Morning
+8/24/2024 10:00,Banana Bread,Craft Breakfast,4,6.5,26,FALSE,Morning
+8/24/2024 13:00,Chicken Strips (3),Little Buddy Favourites,2,10,20,FALSE,Afternoon
+8/24/2024 17:00,Fish & Chips,Craft Lunch,4,16.9,67.6,FALSE,Evening
+8/24/2024 10:00,Hot Chocolate (M),Hot Drinks,2,5.9,11.8,TRUE,Morning
+8/24/2024 10:00,Sourdough Toast,Craft Breakfast,1,5.9,5.9,FALSE,Morning
+8/24/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,5,8.9,44.5,FALSE,Afternoon
+8/24/2024 10:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Morning
+8/25/2024 10:00,Salt & Pepper Squid,Craft Lunch,5,13.9,69.5,TRUE,Morning
+8/25/2024 17:00,Tea,Hot Drinks,3,4.9,14.7,FALSE,Evening
+8/25/2024 13:00,Iced Coffee (Regular),Cold Drinks,1,7.9,7.9,TRUE,Afternoon
+8/25/2024 13:00,Hot Chips (S),Family Favourites,4,5.9,23.6,FALSE,Afternoon
+8/25/2024 13:00,Barista Made Coffee (S),Hot Drinks,2,4.9,9.8,TRUE,Afternoon
+8/25/2024 13:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Afternoon
+8/25/2024 17:00,Milkshake (Large),Cold Drinks,2,8.9,17.8,FALSE,Evening
+8/25/2024 10:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,TRUE,Morning
+8/25/2024 13:00,Chicken Strips (3),Little Buddy Favourites,3,10,30,FALSE,Afternoon
+8/25/2024 13:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+8/26/2024 17:00,Banana Bread,Craft Breakfast,2,6.5,13,FALSE,Evening
+8/26/2024 10:00,Chicken Strips (1),Little Buddy Favourites,4,4,16,FALSE,Morning
+8/26/2024 17:00,Hot Chocolate (M),Hot Drinks,3,5.9,17.7,FALSE,Evening
+8/26/2024 10:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Morning
+8/26/2024 10:00,Tea,Hot Drinks,1,4.9,4.9,FALSE,Morning
+8/26/2024 10:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,FALSE,Morning
+8/26/2024 13:00,Hot Chocolate (M),Hot Drinks,5,5.9,29.5,FALSE,Afternoon
+8/26/2024 13:00,Tea,Hot Drinks,2,4.9,9.8,FALSE,Afternoon
+8/27/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Afternoon
+8/27/2024 10:00,Fish & Chips,Craft Lunch,5,16.9,84.5,FALSE,Morning
+8/27/2024 13:00,Chai Latte (S),Hot Drinks,1,4.9,4.9,FALSE,Afternoon
+8/27/2024 10:00,House Made Wrap,Craft Lunch,4,9.9,39.6,FALSE,Morning
+8/27/2024 13:00,Wedges (S),Family Favourites,1,7.9,7.9,FALSE,Afternoon
+8/28/2024 13:00,Sweet Potato Chips (S),Family Favourites,2,7.9,15.8,FALSE,Afternoon
+8/28/2024 17:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Evening
+8/28/2024 10:00,Chicken Strips (3),Little Buddy Favourites,5,10,50,FALSE,Morning
+8/28/2024 17:00,Barista Made Coffee (S),Hot Drinks,4,4.9,19.6,FALSE,Evening
+8/28/2024 10:00,Wedges (L),Family Favourites,3,9.9,29.7,FALSE,Morning
+8/28/2024 17:00,Sweet Potato Chips (L),Family Favourites,5,9.9,49.5,FALSE,Evening
+8/28/2024 13:00,Fish Burger,Gourmet Burgers,2,12.9,25.8,FALSE,Afternoon
+8/28/2024 13:00,Chicken Strips (3),Little Buddy Favourites,1,10,10,TRUE,Afternoon
+8/28/2024 10:00,Veggie Burger,Gourmet Burgers,4,12.9,51.6,FALSE,Morning
+8/29/2024 13:00,Hot Chips (L),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+8/29/2024 13:00,Wedges (S),Family Favourites,4,7.9,31.6,FALSE,Afternoon
+8/29/2024 13:00,Ice Chocolate (Regular),Cold Drinks,4,8.9,35.6,FALSE,Afternoon
+8/29/2024 17:00,Wedges (S),Family Favourites,1,7.9,7.9,TRUE,Evening
+8/29/2024 17:00,Wedges (S),Family Favourites,4,7.9,31.6,TRUE,Evening
+8/29/2024 10:00,Wedges (S),Family Favourites,2,7.9,15.8,FALSE,Morning
+8/30/2024 10:00,House Made Roll,Craft Lunch,5,15.9,79.5,FALSE,Morning
+8/30/2024 13:00,Tea,Hot Drinks,5,4.9,24.5,FALSE,Afternoon
+8/30/2024 13:00,Chicken Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Afternoon
+8/30/2024 17:00,Milkshake (Regular),Cold Drinks,2,7.9,15.8,TRUE,Evening
+8/30/2024 13:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,TRUE,Afternoon
+8/30/2024 17:00,Raisin Toast,Craft Breakfast,3,5.9,17.7,FALSE,Evening
+8/31/2024 10:00,Barista Made Coffee (M),Hot Drinks,4,5.9,23.6,FALSE,Morning
+8/31/2024 10:00,Angus Beef Burger,Gourmet Burgers,5,12.9,64.5,FALSE,Morning
+8/31/2024 13:00,Fish Burger,Gourmet Burgers,4,12.9,51.6,TRUE,Afternoon
+8/31/2024 17:00,Iced Coffee (Regular),Cold Drinks,4,7.9,31.6,FALSE,Evening
+8/31/2024 10:00,Sourdough Toast,Craft Breakfast,2,5.9,11.8,TRUE,Morning
+8/31/2024 13:00,Barista Made Coffee (L),Hot Drinks,5,6.9,34.5,FALSE,Afternoon
+8/31/2024 17:00,Milkshake (Large),Cold Drinks,4,8.9,35.6,TRUE,Evening
+8/31/2024 17:00,3 Chicken Nuggets + Chips,Little Buddy Favourites,3,6.9,20.7,FALSE,Evening
+8/31/2024 13:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,FALSE,Afternoon
+8/31/2024 13:00,House Made Wrap,Craft Lunch,1,9.9,9.9,FALSE,Afternoon
+8/31/2024 13:00,Barista Made Coffee (S),Hot Drinks,3,4.9,14.7,FALSE,Afternoon
+8/31/2024 10:00,3 Fish Fingers + Chips,Little Buddy Favourites,4,8.9,35.6,FALSE,Morning
+8/31/2024 10:00,Sweet Potato Chips (L),Family Favourites,2,9.9,19.8,FALSE,Morning
+8/31/2024 17:00,Milkshake (Regular),Cold Drinks,3,7.9,23.7,TRUE,Evening
